@@ -1,1 +1,5 @@
-Task 0. Where am i?
+
+System engineering DevOps.
+
+
+This project automate some commands from the linux terminal
